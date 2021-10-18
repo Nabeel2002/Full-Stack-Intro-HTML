@@ -86,7 +86,6 @@ Speed run throught the Full Stack Academy Intro to HTML Course
       <h1>Welcome to Cody's Homepage!</h1>
       <p>Your spot for all things related to Cody!</p>
     </div>
-    
     <div id="toys">
       <h3>Cody's Favorite Toys</h3>
       <ul>
@@ -101,7 +100,6 @@ Speed run throught the Full Stack Academy Intro to HTML Course
         </li>
       </ul>
     </div>
-    </body>
     <div id="Activities">
       <h3>Cody's Top 5 Activities</h3>
       <ol>
@@ -112,7 +110,6 @@ Speed run throught the Full Stack Academy Intro to HTML Course
         <li>Snoring</li>
       </ol>
     </div>
-    
   </body>
 
   <!--LINKS/Anchor need href-->
