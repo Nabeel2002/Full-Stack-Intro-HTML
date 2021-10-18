@@ -82,7 +82,6 @@ Speed run throught the Full Stack Academy Intro to HTML Course
   </body>
   <!--ID ATTRIBUTE-->
   <body>
-  
     <div id="Welcome">
       <h1>Welcome to Cody's Homepage!</h1>
       <p>Your spot for all things related to Cody!</p>
@@ -102,7 +101,7 @@ Speed run throught the Full Stack Academy Intro to HTML Course
         </li>
       </ul>
     </div>
-      
+    </body>
     <div id="Activities">
       <h3>Cody's Top 5 Activities</h3>
       <ol>
